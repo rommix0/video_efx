@@ -1,0 +1,5 @@
+scipy
+numpy
+tqdm
+#opencv-python-headless
+opencv-python
